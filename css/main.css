@@ -1,47 +1,38 @@
-#Body is the main text that exists
+
 body {
     margin: 60px auto;
     width: 70%;
 }
-#I assume this is for the Navigation bar and the footer text
-#ul is unordered list
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
 }
-#css for the links in the above (li = link)
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
 }
- # <a> defines a hyperlink
 a {
     text-decoration: none;
     color: #999;
 }
-#When you hover over a hyperlink
 a:hover {
     text-decoration: underline;
 }
-#heading 1
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
-#normal text!
 p {
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
 }
-#kinda obvious, duplicate though??
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-#not too sure.. unordered posts, could be under "blog" where the links to each blog post is
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
