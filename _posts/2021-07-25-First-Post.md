@@ -10,3 +10,18 @@ I can confidently say i know an average amount of PowerShell, and so along with 
 
 Below is a screenshot from what the Home page currently looks like
 ![HomePage](/_images/31-07-2021-PowerShellBlogHome.png)
+
+---
+
+There are a number of tasks I wish to complete for this site specifically in no particular order. This is just a mix of blog posts as well as changes to the site.
+Away from this site, I have other tasks jotted down to learn Git/Github and more.
+
+- Learn to Style the site. CSS/HTML. I am unsure at this time 
+- Google Analytics/Ads (gotta get that passive income!)
+- "Folders" under the blog section. E.G.
+    - Office 365
+    - Active Directory
+    - Custom Modules
+    - etc.
+- Dark mode 
+- Commenting
