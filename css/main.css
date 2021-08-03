@@ -10,7 +10,7 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     border: 2px solid darkblue;
-    border-radius: 2px;
+    border-radius: 5px;
 }
 nav ul li, footer ul li {
     display: inline;
