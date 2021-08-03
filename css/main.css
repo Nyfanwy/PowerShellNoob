@@ -9,7 +9,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    border: 2px solid darkblue;
+    border: 20px solid darkblue;
     border-radius: 5px;
 }
 nav ul li, footer ul li {
