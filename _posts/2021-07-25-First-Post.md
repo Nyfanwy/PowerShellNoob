@@ -4,7 +4,7 @@ title: "PowerShell Noob, first post"
 date: 2021-07-25
 ---
 
-q
+qw
 
 So this is my first post, officially created on 25th July 2021 I know next to nothing about Git, GitHub, HTML, CSS, Jekyll or Markdown. so this is going to be one hell of an endeavour for me to learn all these tools to develop a semi decent looking PowerShell Blog site.
 
