@@ -18,7 +18,8 @@
 
 # Overview
 
-I'm going to cover multiple ways to create an array with custom column headers and data that can be populated via variables.
+This Guide will help to cover multiple ways of creating an array within PowerShell.
+Specifically, it will cover custom made arrays where you're able to set the column name as well as the data.
 
 
 ```Powershell
