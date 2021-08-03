@@ -2,7 +2,9 @@
 
 `
 [System.Collections.ArrayList]$Array = @()
+
 $value = [PSCustomObject]@{'Column1'=Data;'Column2'=OtherData}
+
 $Array.Add($value) | Out-Null
 `
 
