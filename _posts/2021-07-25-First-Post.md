@@ -10,6 +10,7 @@ I can confidently say i know an average amount of PowerShell, and so along with 
 
 Below is a screenshot from what the Home page currently looks like
 ![HomePage](/_images/31-07-2021-PowerShellBlogHome.png)
+<img src="_images/31-07-2021-PowerShellBlogHome.png">
 
 ---
 
