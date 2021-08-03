@@ -6,10 +6,12 @@ body {
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    colour: white;
     padding: 3px;
     list-style: none;
     font-weight: bold;
-    border: 2px solid darkblue;
+    background-color: grey;
+    border: 2px solid grey;
     border-radius: 5px;
 }
 nav ul li, footer ul li {
